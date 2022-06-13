@@ -1,0 +1,25 @@
+{
+  "name": "node_pwa",
+  "version": "1.0.0",
+  "description": "Nodejs application PWA",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Forz70043/node_pwa.git"
+  },
+  "author": "Forz70043",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Forz70043/node_pwa/issues"
+  },
+  "homepage": "https://github.com/Forz70043/node_pwa#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
